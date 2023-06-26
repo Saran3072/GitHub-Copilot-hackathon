@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/c49566ac-0e48-4595-8769-7edf9526b8e3/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/weather-sense",
+    "appService.deploySubpath": "copilot"
+}
